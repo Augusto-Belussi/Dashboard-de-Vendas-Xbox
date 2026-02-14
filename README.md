@@ -49,7 +49,7 @@ Auxiliar na análise de desempenho das assinaturas, facilitando:
 
 ## 📈 Visualização do Projeto
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](imagens/Dashboard_Xbox.png)
 
 > Painel com indicadores consolidados e gráfico comparativo de desempenho das assinaturas.
 
