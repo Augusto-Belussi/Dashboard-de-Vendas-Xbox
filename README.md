@@ -1,117 +1,90 @@
-🎮 Xbox Game Pass Subscriptions Sales Dashboard
+# 🎮 Xbox Game Pass Subscriptions Sales Dashboard
 
-Dashboard desenvolvido em Microsoft Excel para análise estratégica das vendas de assinaturas do Xbox Game Pass, incluindo os pacotes adicionais EA Play Season Pass e Minecraft Season Pass.
+[![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/excel)
 
-O projeto transforma dados de vendas em indicadores visuais claros, facilitando a interpretação de desempenho mensal, anual e bimestral.
+Projeto desenvolvido em **Microsoft Excel**, com foco na  
+**análise e visualização estratégica de vendas de assinaturas do Xbox Game Pass**.
 
-📊 Visão Geral do Dashboard
+O dashboard consolida informações sobre o **Xbox Game Pass**, incluindo as opções adicionais **EA Play Season Pass** e **Minecraft Season Pass**, permitindo uma visão clara do desempenho mensal, bimestral e anual.
 
-O painel apresenta:
+---
 
-📅 Período de cálculo: 01/01/2024 – 31/12/2024
+## 🎯 Objetivo
 
-🎛️ Filtro interativo por tipo de assinatura:
+Auxiliar na análise de desempenho das assinaturas, facilitando:
 
-Annual
+- 📊 Comparação entre tipos de planos  
+- 📅 Análise de vendas mensais  
+- 📆 Consolidação anual  
+- 🔄 Avaliação bimestral  
+- 🎮 Visualização do impacto das assinaturas adicionais  
 
-Monthly
+---
 
-Quarterly
+## 📊 Funcionalidades do Dashboard
 
-📌 Principais Indicadores (KPIs)
+✔ Indicadores de receita total por tipo de assinatura  
+✔ Comparativo entre assinaturas com e sem adicionais  
+✔ Segmentação por tipo de plano:
+- Annual  
+- Monthly  
+- Quarterly  
 
-🎯 Total Subscriptions EA Play Season Pass
+✔ Gráficos dinâmicos e intuitivos  
+✔ Atualização automática de métricas  
+✔ Interface com identidade visual inspirada na marca Xbox  
 
-Indicador consolidado exibindo o faturamento total do EA Play no período selecionado.
+---
 
-🎯 Total Subscriptions Minecraft Season Pass
+## 🛠️ Tecnologias Utilizadas
 
-Indicador consolidado do desempenho da assinatura adicional Minecraft.
+- Microsoft Excel  
+- Tabelas Dinâmicas  
+- Segmentação de Dados (Slicers)  
+- Fórmulas Avançadas  
+- Gráficos Automatizados  
+- Estruturação de Base de Dados  
 
-🎯 Total Subscriptions Xbox Game Pass
+---
 
-Gráfico comparativo demonstrando:
+## 📈 Visualização do Projeto
 
-Assinaturas com adicionais (Yes)
+![Dashboard Screenshot](dashboard_screenshot.png)
 
-Assinaturas sem adicionais (No)
+> Painel com indicadores consolidados e gráfico comparativo de desempenho das assinaturas.
 
-Isso permite analisar o impacto das opções extras na receita total.
+---
 
-📈 Análises Disponíveis
+## 🚀 Como Usar
 
-Comparação de vendas por tipo de plano
+1. Baixe o arquivo `Vendas_Xbox.xlsx`
+2. Abra no Microsoft Excel (versão recomendada: 2016 ou superior)
+3. Utilize os filtros de tipo de assinatura
+4. Analise os indicadores e gráficos atualizados automaticamente
 
-Consolidação anual de faturamento
+---
 
-Análise bimestral de desempenho
+## 📌 Indicadores Apresentados
 
-Visualização mensal detalhada
+- Total de vendas Xbox Game Pass  
+- Total de vendas EA Play Season Pass  
+- Total de vendas Minecraft Season Pass  
+- Comparativo entre assinaturas com e sem adicionais  
+- Consolidação por período (mensal, bimestral e anual)  
 
-Impacto das assinaturas adicionais na receita
+---
 
-🎨 Diferenciais do Projeto
-
-Layout profissional com identidade visual baseada na marca Xbox
-
-Paleta de cores estratégica (verde institucional)
-
-Indicadores em destaque com foco em leitura rápida
-
-Gráfico horizontal para comparação clara entre categorias
-
-Estrutura organizada e intuitiva
-
-Filtros dinâmicos para análise personalizada
-
-🛠️ Ferramentas Utilizadas
-
-Microsoft Excel
-
-Tabelas Dinâmicas
-
-Segmentação de Dados (Slicers)
-
-Fórmulas Avançadas
-
-Estruturação de Base de Dados
-
-Design aplicado a dashboards
-
-▶️ Como Utilizar
-
-Faça o download do arquivo Vendas_Xbox.xlsx
-
-Abra no Microsoft Excel (versão recomendada: 2016 ou superior)
-
-Utilize os filtros de tipo de assinatura
-
-Analise os KPIs e gráficos automaticamente atualizados
-
-🎯 Objetivo do Projeto
+## 🎓 Objetivo Acadêmico
 
 Este projeto demonstra:
 
-Construção de dashboards gerenciais no Excel
+- Construção de dashboards gerenciais no Excel  
+- Organização estratégica de dados  
+- Visualização clara de métricas financeiras  
+- Aplicação prática de análise de dados  
 
-Aplicação prática de análise de dados
+---
 
-Estruturação de métricas financeiras
+## 👨‍💻 Autor
 
-Visualização estratégica para tomada de decisão
-
-🚀 Possíveis Melhorias Futuras
-
-Inclusão de metas e variação percentual
-
-Comparativo com ano anterior
-
-Integração com Power Query
-
-Versão expandida em Power BI
-
-Indicadores de crescimento (MoM e YoY)
-
-👨‍💻 Autor
-
-Augusto Belussi
+**Augusto Belussi**  
