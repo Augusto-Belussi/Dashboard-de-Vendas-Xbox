@@ -88,3 +88,6 @@ Este projeto demonstra:
 ## 👨‍💻 Autor
 
 **Augusto Belussi**  
+[GitHub](https://github.com/Augusto-Belussi) | [LinkedIn](https://www.linkedin.com/in/augustobelussi) | [Instagram](https://www.instagram.com/augusto_belussi)
+
+Projeto desenvolvido para fins **acadêmicos e de portfólio**.
